@@ -3384,8 +3384,9 @@ pluralize@^8.0.0:
   integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
 
 "pmd@github:PreMiD/pmd#main":
-  version "1.0.0"
-  resolved "https://codeload.github.com/PreMiD/pmd/tar.gz/882ef0f6a2142f899b6ea517965c0ab778933789"
+  version "1.0.3"
+  uid a9f4ecf8c675a45ceab9936ca1cd9aae49975339
+  resolved "https://codeload.github.com/PreMiD/pmd/tar.gz/a9f4ecf8c675a45ceab9936ca1cd9aae49975339"
   dependencies:
     "@apollo/client" "^3.6.9"
     chalk "^5.0.1"
