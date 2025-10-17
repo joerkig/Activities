@@ -1,4 +1,4 @@
-import { ActivityType, Assets, getTimestamps } from 'premid'
+import { ActivityType, Assets, getTimestamps, StatusDisplayType } from 'premid'
 
 const presence = new Presence({
   clientId: '721748388143562852',
@@ -53,6 +53,12 @@ function getTag(collection: NodeListOf<Element>, tagName: string) {
 }
 
 presence.on('UpdateData', async () => {
+  const [
+    displayType,
+  ] = await Promise.all([
+    presence.getSetting<number>('displayType'),
+  ])
+
   if (
     document.querySelector('.footer')
     && document.querySelector('.footer')?.textContent?.includes('VLC')
@@ -99,7 +105,7 @@ presence.on('UpdateData', async () => {
           + (media.trackNumber ? ` Track N°${media.trackNumber}` : '')
           || 'A song') + (media.album ? ` on ${media.album}` : '')
         media.artist
-          ? (presenceData.state = `by ${media.artist}`)
+          ? (presenceData.state = media.artist)
           : media.filename
             ? (presenceData.state = media.filename)
             : delete presenceData.state
@@ -160,6 +166,15 @@ presence.on('UpdateData', async () => {
 
       [presenceData.startTimestamp, presenceData.endTimestamp] = getTimestamps(Number(media.time), Number(media.length))
 
+      switch (displayType) {
+        case 1:
+          presenceData.statusDisplayType = StatusDisplayType.State
+          break
+        case 2:
+          presenceData.statusDisplayType = StatusDisplayType.Details
+          break
+      }
+
       if (media.state === 'playing') {
         presence.setActivity(presenceData)
       }
@@ -176,6 +191,7 @@ presence.on('UpdateData', async () => {
       delete presenceData.smallImageText
       presenceData.startTimestamp = elapsed
       delete presenceData.endTimestamp
+      delete presenceData.statusDisplayType
 
       presence.setActivity(presenceData)
     }
