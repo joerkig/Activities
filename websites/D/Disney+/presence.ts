@@ -65,7 +65,7 @@ presence.on('UpdateData', async () => {
       presenceData.largeImageKey = 'https://cdn.rcd.gg/PreMiD/websites/D/Disney%2B/assets/logo.png'
       switch (true) {
         case pathname.includes('play'): {
-          const video = document.querySelector<HTMLVideoElement>('video#hivePlayer1')
+          const video = document.querySelector<HTMLVideoElement>('video[id^="hivePlayer"]')
 
           //* Wait for elements to load to prevent setactivity spam
           if (!video || !imageId)
