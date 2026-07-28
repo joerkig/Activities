@@ -22,9 +22,9 @@ let iFrameData: {
 } = {}
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/9AZcuaz.png',
-  BombPartySmallLogo = 'https://i.imgur.com/1u9h8Am.png',
-  PopSauceSmallLogo = 'https://i.imgur.com/n2MngtP.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/J/jklm.fun/assets/logo.png',
+  BombPartySmallLogo = 'https://cdn.rcd.gg/PreMiD/websites/J/jklm.fun/assets/0.png',
+  PopSauceSmallLogo = 'https://cdn.rcd.gg/PreMiD/websites/J/jklm.fun/assets/1.png',
 }
 
 interface GameSpecificPresenceDataProps {
