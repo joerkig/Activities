@@ -12,9 +12,9 @@
   },
   "url": "audioteka.com",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*audioteka[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/a0KkbCI.png",
-  "thumbnail": "https://i.imgur.com/80ijveT.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/audioteka/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/audioteka/assets/thumbnail.png",
   "color": "#000000",
   "category": "other",
   "tags": [
