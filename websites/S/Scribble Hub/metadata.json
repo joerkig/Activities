@@ -14,9 +14,9 @@
     "www.scribblehubforum.com"
   ],
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*(scribblehub|scribblehubforum)[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/S7M6V6kV/SH.png",
-  "thumbnail": "https://i.ibb.co/Y77FYtDD/image.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Scribble%20Hub/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Scribble%20Hub/assets/thumbnail.png",
   "color": "#3399CC",
   "category": "other",
   "tags": [

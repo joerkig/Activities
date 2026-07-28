@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.ibb.co/S7M6V6kV/SH.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/S/Scribble%20Hub/assets/logo.png',
 }
 
 function truncate(text: string, maxLength = 128): string {
