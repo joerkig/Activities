@@ -18,9 +18,9 @@
     "anikototv.se"
   ],
   "regExp": "^https?[:][/][/](www[.])?(anikototv[.]to|anikoto[.]cz|anikoto[.]me|anikoto[.]net|anikototv[.]se)[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/3CY0qmm.png",
-  "thumbnail": "https://i.imgur.com/gRdHdau.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/Anikoto/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/Anikoto/assets/thumbnail.png",
   "color": "#26A3D6",
   "category": "anime",
   "tags": [

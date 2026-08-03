@@ -45,7 +45,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/3CY0qmm.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/Anikoto/assets/logo.png',
 }
 
 const VIDEO_DATA_TTL_MS = 12_000
