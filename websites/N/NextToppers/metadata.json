@@ -11,10 +11,12 @@
   },
   "url": "nexttoppers.com",
   "regExp": "^https?[:][/][/](www[.])?nexttoppers[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/9YKfQ6M.png",
-  "thumbnail": "https://i.imgur.com/NfGW7mM.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/N/NextToppers/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/N/NextToppers/assets/thumbnail.png",
   "color": "#00bcd4",
   "category": "other",
-  "tags": ["education"]
+  "tags": [
+    "education"
+  ]
 }
