@@ -2,7 +2,7 @@ import { ActivityType, Assets, getTimestamps, StatusDisplayType, timestampFromFo
 
 // Define assets outside the update loop
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/fOBSkdo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/S/Seanime/assets/logo.png',
 }
 
 const presence = new Presence({
