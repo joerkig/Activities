@@ -11,12 +11,12 @@ enum ListStatusId {
 
 enum ActivityAssets {
   Logo = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/logo.png',
-  Watching = 'https://i.imgur.com/RbKyqas.png',
-  Planned = 'https://i.imgur.com/UrJqULa.png',
-  Watched = 'https://i.imgur.com/UTslBQc.png',
-  Abandoned = 'https://i.imgur.com/R25r95R.png',
-  Postponed = 'https://i.imgur.com/TuZMiAY.png',
-  Favorites = 'https://i.imgur.com/ENn2etE.png',
+  Watching = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/0.png',
+  Planned = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/1.png',
+  Watched = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/2.png',
+  Abandoned = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/3.png',
+  Postponed = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/4.png',
+  Favorites = 'https://cdn.rcd.gg/PreMiD/websites/Y/YummyAnime/assets/5.png',
 }
 
 const listStatusAssetMap: Record<ListStatusId, ActivityAssets> = {
