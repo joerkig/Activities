@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/6t0ss9m.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/V/Velora/assets/logo.png',
 }
 
 // Real static routes on velora.tv. Anything else is Next's `[username]`
