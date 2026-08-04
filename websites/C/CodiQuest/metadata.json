@@ -11,9 +11,9 @@
   },
   "url": "codiquest.online",
   "regExp": "^https?[:][/][/](www[.])?codiquest[.]online[/]",
-  "version": "1.0.0",
-  "logo": "https://www.codiquest.online/icon-512.png",
-  "thumbnail": "https://www.codiquest.online/social-card.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/C/CodiQuest/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/C/CodiQuest/assets/thumbnail.png",
   "color": "#E2B95C",
   "category": "games",
   "tags": [

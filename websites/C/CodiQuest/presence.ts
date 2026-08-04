@@ -4,7 +4,7 @@ const presence = new Presence({
   clientId: '1532069734961647827',
 })
 
-const LOGO_URL = 'https://www.codiquest.online/icon-512.png'
+const LOGO_URL = 'https://cdn.rcd.gg/PreMiD/websites/C/CodiQuest/assets/logo.png'
 
 let activeKind: string | undefined
 let activityStartedAt = Date.now()
