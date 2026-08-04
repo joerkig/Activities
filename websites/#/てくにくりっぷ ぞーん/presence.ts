@@ -7,7 +7,7 @@ const presence = new Presence({
 presence.on('UpdateData', async () => {
   const presenceData: PresenceData = {
     type: ActivityType.Watching,
-    largeImageKey: 'https://i.imgur.com/UotUexK.png', // Replace with a direct URL to the site logo
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/%23/%E3%81%A6%E3%81%8F%E3%81%AB%E3%81%8F%E3%82%8A%E3%81%A3%E3%81%B7%20%E3%81%9E%E3%83%BC%E3%82%93/assets/logo.png', // Replace with a direct URL to the site logo
   }
 
   const pathname = document.location.pathname
