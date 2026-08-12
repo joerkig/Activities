@@ -7,7 +7,7 @@ const presence = new Presence({
 const startTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://ik.imagekit.io/rhs5tvh3k/tr:w-512,h-512/transparent%20(5).png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/Manthan/assets/logo.png',
 }
 
 let strings: Awaited<ReturnType<typeof getStrings>>
