@@ -11,9 +11,9 @@
   },
   "url": "soundscout.com",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*soundscout[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/qk0dkl9.png",
-  "thumbnail": "https://i.imgur.com/DruVHwC.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/SoundScout/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/SoundScout/assets/thumbnail.jpeg",
   "color": "#F1D383",
   "category": "music",
   "tags": [
