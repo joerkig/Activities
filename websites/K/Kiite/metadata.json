@@ -19,9 +19,9 @@
     "mobile.kiite.jp"
   ],
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*kiite[.]jp[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/Xs7h5Ix.png",
-  "thumbnail": "https://i.imgur.com/U1wfM6B.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/K/Kiite/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/K/Kiite/assets/thumbnail.png",
   "color": "#FF33AA",
   "category": "music",
   "tags": [

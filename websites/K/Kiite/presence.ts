@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/Xs7h5Ix.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/K/Kiite/assets/logo.png',
 }
 
 const SELECTORS = {
