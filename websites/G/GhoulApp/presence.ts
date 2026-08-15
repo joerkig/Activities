@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/Iz99bsW.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/G/GhoulApp/assets/logo.png',
 }
 
 const BRIDGE_ID = 'ghoulapp-discord-activity-bridge'
