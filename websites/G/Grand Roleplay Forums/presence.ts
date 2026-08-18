@@ -53,7 +53,7 @@ presence.on('UpdateData', async () => {
 
   const presenceData: PresenceData = {
     type: ActivityType.Watching,
-    largeImageKey: 'https://i.ibb.co/rW0b3Dz/512.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/G/Grand%20Roleplay%20Forums/assets/logo.png',
     name: 'Grand Roleplay Forums',
   }
 
