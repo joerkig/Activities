@@ -12,9 +12,9 @@
   },
   "url": "nekowatch.xyz",
   "regExp": "^https?[:][/][/](www[.])?nekowatch[.]xyz[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/LtP6hmP.jpeg",
-  "thumbnail": "https://i.imgur.com/Q7jwfg0.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/logo.jpeg",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/thumbnail.png",
   "color": "#6366f1",
   "category": "anime",
   "tags": [

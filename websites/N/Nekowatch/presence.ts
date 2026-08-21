@@ -427,7 +427,7 @@ presence.on('UpdateData', async () => {
 
   const presenceData: PresenceData = {
     type: ActivityType.Watching,
-    largeImageKey: 'https://i.imgur.com/LtP6hmP.jpeg',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/logo.jpeg',
     startTimestamp: siteStartTimestamp,
   }
 
@@ -523,7 +523,7 @@ presence.on('UpdateData', async () => {
     case isInfo: {
       presenceData.details = 'Viewing Anime Info'
       presenceData.state = animeTitle || 'Reading Details & Overview'
-      presenceData.largeImageKey = coverUrlAnime || coverUrlDefault || 'https://i.imgur.com/LtP6hmP.jpeg'
+      presenceData.largeImageKey = coverUrlAnime || coverUrlDefault || 'https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/logo.jpeg'
 
       if (showButtons) {
         buttonLabel = 'View Anime'
@@ -558,7 +558,7 @@ presence.on('UpdateData', async () => {
         presenceData.state = epLine
       }
 
-      presenceData.largeImageKey = coverUrl || 'https://i.imgur.com/LtP6hmP.jpeg'
+      presenceData.largeImageKey = coverUrl || 'https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/logo.jpeg'
 
       const videos = Array.from(document.querySelectorAll('video'))
       const video = videos.find(v => v.src && !v.src.startsWith('blob:') && v.src.startsWith('http'))
@@ -624,7 +624,7 @@ presence.on('UpdateData', async () => {
         presenceData.details = getString('browsing', 'Browsing...')
         presenceData.state = animeTitle ? `${getString('viewing', 'Viewing')} ${animeTitle}` : 'Exploring Catalog'
       }
-      presenceData.largeImageKey = coverUrlDefault || 'https://i.imgur.com/LtP6hmP.jpeg'
+      presenceData.largeImageKey = coverUrlDefault || 'https://cdn.rcd.gg/PreMiD/websites/N/Nekowatch/assets/logo.jpeg'
       break
     }
   }
