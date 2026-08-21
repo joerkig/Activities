@@ -17,9 +17,9 @@
   },
   "url": "event.supercell.com",
   "regExp": "^https?[:][/][/]event[.]supercell[.]com[/](brawlstars)?",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/ByIrt2V.png",
-  "thumbnail": "https://i.imgur.com/Z0qBOIl.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/B/Brawl%20Stars%20Championship/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/B/Brawl%20Stars%20Championship/assets/thumbnail.jpeg",
   "color": "#FFC414",
   "category": "games",
   "tags": [

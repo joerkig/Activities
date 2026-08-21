@@ -7,7 +7,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/ByIrt2V.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/B/Brawl%20Stars%20Championship/assets/logo.png',
 }
 
 function getText(selector: string): string | undefined {
