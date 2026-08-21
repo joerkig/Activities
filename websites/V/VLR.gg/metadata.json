@@ -14,9 +14,9 @@
     "www.vlr.gg"
   ],
   "regExp": "^https?[:][/][/](www[.])?vlr[.]gg[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/AHGI3y5.png",
-  "thumbnail": "https://i.imgur.com/jVdJagm.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/V/VLR.gg/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/V/VLR.gg/assets/thumbnail.png",
   "color": "#da626c",
   "category": "games",
   "tags": [
@@ -43,14 +43,18 @@
       "title": "Show Match Score",
       "icon": "fas fa-trophy",
       "value": true,
-      "if": { "privacy": false }
+      "if": {
+        "privacy": false
+      }
     },
     {
       "id": "showCover",
       "title": "Show Cover Art",
       "icon": "fas fa-images",
       "value": true,
-      "if": { "privacy": false }
+      "if": {
+        "privacy": false
+      }
     },
     {
       "id": "showSmallImage",
@@ -63,7 +67,9 @@
       "title": "Show Buttons",
       "icon": "fas fa-compress-arrows-alt",
       "value": true,
-      "if": { "privacy": false }
+      "if": {
+        "privacy": false
+      }
     }
   ]
 }

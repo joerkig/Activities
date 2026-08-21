@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/AHGI3y5.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/V/VLR.gg/assets/logo.png',
 }
 
 // vlr.gg is a plain server-rendered site (confirmed live, not just from saved
