@@ -88,6 +88,13 @@
         "Artist Name",
         "Song Title"
       ]
+    },
+    {
+      "id": "titleParsing",
+      "title": "Parse Song Title",
+      "description": "Parse the song title for a cleaner look and to try to separate the artist and song title.",
+      "icon": "fas fa-filter",
+      "value": false
     }
   ]
 }
