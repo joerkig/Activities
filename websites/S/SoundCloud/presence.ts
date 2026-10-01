@@ -496,7 +496,13 @@ async function updateActivity() {
       else presenceData.details = 'Browsing Playlist/Album...'
 
       const uploader = getElement('.soundTitle__username')
-      const track = parseTrackTitle(getElement('.soundTitle__title > span'), uploader)
+      const track = titleParsing
+        ? parseTrackTitle(getElement('.soundTitle__title > span'), uploader)
+        : {
+            title: getElement('.soundTitle__title > span'),
+            artist: uploader,
+          }
+      presenceData.details = 'Listening to...'
       presenceData.state = [track.title, track.artist || uploader].filter(Boolean).join(' by ')
     }
   }
