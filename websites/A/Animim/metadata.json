@@ -12,10 +12,14 @@
   },
   "url": "animim.app",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*(animim[.]app)[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/ACYIVVs.png",
-  "thumbnail": "https://i.imgur.com/U98Bn49.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/Animim/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/Animim/assets/thumbnail.png",
   "color": "#e53935",
   "category": "anime",
-  "tags": ["anime", "movie", "series"]
+  "tags": [
+    "anime",
+    "movie",
+    "series"
+  ]
 }
