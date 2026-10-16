@@ -12,9 +12,9 @@
   },
   "url": "www.ofiii.com",
   "regExp": "^https?[:][/][/](www[.])?ofiii[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/dKBCFwR.png",
-  "thumbnail": "https://i.imgur.com/DJSnrYd.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/ofiii/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/ofiii/assets/thumbnail.png",
   "color": "#FF066B",
   "category": "videos",
   "tags": [

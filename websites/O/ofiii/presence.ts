@@ -8,7 +8,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 const statusDisplayTypes = [StatusDisplayType.Name, StatusDisplayType.Details, StatusDisplayType.State]
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/dKBCFwR.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/O/ofiii/assets/logo.png',
 }
 
 async function getStrings() {
