@@ -297,7 +297,7 @@ presence.on('UpdateData', async () => {
     type: ActivityType.Watching,
     details: displayTitle,
     largeImageKey: cachedPoster
-      ?? 'https://i.imgur.com/JTtBezM.png',
+      ?? 'https://cdn.rcd.gg/PreMiD/websites/M/Movy/assets/logo.png',
   }
 
   // --------------------------------------------------

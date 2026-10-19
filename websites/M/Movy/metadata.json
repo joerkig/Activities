@@ -11,9 +11,9 @@
   },
   "url": "movy.sx",
   "regExp": "^https?:[/][/](www[.])?movy[.]sx[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/JTtBezM.png",
-  "thumbnail": "https://i.imgur.com/tyabHzo.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/Movy/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/Movy/assets/thumbnail.png",
   "color": "#000000",
   "category": "videos",
   "tags": [
