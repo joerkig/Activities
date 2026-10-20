@@ -7,17 +7,17 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/MofAknO.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/logo.png',
 }
 
 enum IconAssets {
-  House = 'https://i.imgur.com/d0u9KBC.png',
-  UpDown = 'https://i.imgur.com/JAbwLgh.png',
-  Crown = 'https://i.imgur.com/46F79PQ.png',
-  Person = 'https://i.imgur.com/ZSiPGqT.png',
-  Network = 'https://i.imgur.com/he4qHAL.png',
-  Sparkle = 'https://i.imgur.com/DBNSiFh.png',
-  Cart = 'https://i.imgur.com/Pdhm2Ja.png',
+  House = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/0.png',
+  UpDown = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/1.png',
+  Crown = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/2.png',
+  Person = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/3.png',
+  Network = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/4.png',
+  Sparkle = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/5.png',
+  Cart = 'https://cdn.rcd.gg/PreMiD/websites/P/Popcornmovies/assets/6.png',
 }
 
 function getText(selector: string): string | undefined {
