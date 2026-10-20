@@ -17,9 +17,9 @@
   },
   "url": "trakt.tv",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*trakt[.]tv[/]",
-  "version": "2.0.0",
-  "logo": "https://i.postimg.cc/Cxwsz86J/trakt-logomark.png",
-  "thumbnail": "https://i.postimg.cc/8zTmjvnb/traktbg.png",
+  "version": "2.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/thumbnail.png",
   "color": "#9F42C6",
   "category": "videos",
   "tags": [

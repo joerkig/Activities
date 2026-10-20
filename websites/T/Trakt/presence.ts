@@ -7,22 +7,22 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 const ActivityAssets = {
-  traktLogomark: 'https://i.postimg.cc/Cxwsz86J/trakt-logomark.png',
-  traktCirclemark: 'https://i.postimg.cc/K8mDRTsf/trakt-circlemark.png',
-  house: 'https://i.postimg.cc/0y90bSHM/house-solid.png',
-  listCheck: 'https://i.postimg.cc/P5dQPDFD/list-check-solid.png',
-  calendarWeek: 'https://i.postimg.cc/bwq9snFd/calendar-week-solid.png',
-  wandMagicSparkles: 'https://i.postimg.cc/JzR5GXdd/wand-magic-sparkles-solid.png',
-  compass: 'https://i.postimg.cc/W1swhZfd/compass-solid.png',
-  arrowTrendUp: 'https://i.postimg.cc/SxmfJ9tK/arrow-trend-up-solid.png',
-  calendarDays: 'https://i.postimg.cc/JzR5GXd0/calendar-days-solid.png',
-  faceGrinHearts: 'https://i.postimg.cc/dVJjLCSL/face-grin-hearts-solid.png',
-  users: 'https://i.postimg.cc/vZGtcnS2/users-solid.png',
-  userGear: 'https://i.postimg.cc/3x3FdGbS/user-gear-solid.png',
-  userClock: 'https://i.postimg.cc/MpzmvBrs/user-clock-solid.png',
-  userSecret: 'https://i.postimg.cc/HkT9VMP6/user-secret-solid.png',
-  tv: 'https://i.postimg.cc/7ZqnfzQm/tv-solid.png',
-  film: 'https://i.postimg.cc/GmbxHDSy/film-solid.png',
+  traktLogomark: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/logo.png',
+  traktCirclemark: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/0.png',
+  house: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/1.png',
+  listCheck: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/2.png',
+  calendarWeek: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/3.png',
+  wandMagicSparkles: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/4.png',
+  compass: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/5.png',
+  arrowTrendUp: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/6.png',
+  calendarDays: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/7.png',
+  faceGrinHearts: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/8.png',
+  users: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/9.png',
+  userGear: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/10.png',
+  userClock: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/11.png',
+  userSecret: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/12.png',
+  tv: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/13.png',
+  film: 'https://cdn.rcd.gg/PreMiD/websites/T/Trakt/assets/14.png',
 }
 
 //* HELPERS
