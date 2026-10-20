@@ -12,9 +12,9 @@
   },
   "url": "minekeo.com",
   "regExp": "^https?[:][/][/](www[.])?minekeo[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/QjjPYGSk/logo.png",
-  "thumbnail": "https://i.ibb.co/yFgqPymJ/thumbnail.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/MineKeo%20Network/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/MineKeo%20Network/assets/thumbnail.jpg",
   "color": "#E8A5D1",
   "category": "games",
   "tags": [

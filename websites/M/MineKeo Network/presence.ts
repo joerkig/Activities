@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.ibb.co/QjjPYGSk/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/MineKeo%20Network/assets/logo.png',
 }
 
 // Counters on the site show "--" until their data loads and "!" on error.
