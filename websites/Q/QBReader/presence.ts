@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/yxA3FNI.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/Q/QBReader/assets/logo.png',
 }
 
 const sectionDetails: Record<string, string> = {
