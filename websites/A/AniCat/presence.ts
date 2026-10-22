@@ -7,7 +7,7 @@ const presence = new Presence({ clientId: '1553861006164238507' })
 // Логотип — Imgur (гайдлайны PreMiD требуют Imgur для картинок; локальный
 // /symbol.png на проде 404-ит и недоступен для медиа-прокси Discord).
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/72dpXW6.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/thumbnail.png',
 }
 
 // Локали сайта: ru — без префикса в пути, en и uk — с префиксом.

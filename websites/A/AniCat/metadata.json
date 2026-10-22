@@ -13,12 +13,17 @@
   },
   "url": "anicat.cc",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])?anicat[.]cc[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/72dpXW6.png",
-  "thumbnail": "https://i.imgur.com/72dpXW6.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/thumbnail.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/thumbnail.png",
   "color": "#A570FF",
   "category": "anime",
-  "tags": ["anime", "shikimori", "kodik", "watch-online"],
+  "tags": [
+    "anime",
+    "shikimori",
+    "kodik",
+    "watch-online"
+  ],
   "settings": [
     {
       "id": "showButtons",
