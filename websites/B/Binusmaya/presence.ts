@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://binusmaya.binus.ac.id/binusmaya-meta-icon.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/B/Binusmaya/assets/0.png',
 }
 
 /**

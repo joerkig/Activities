@@ -11,9 +11,9 @@
   },
   "url": "lms.binus.ac.id",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*lms[.]binus[.]ac[.]id[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/94izqgl.png",
-  "thumbnail": "https://i.imgur.com/eRte6N4.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/B/Binusmaya/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/B/Binusmaya/assets/thumbnail.png",
   "color": "#0067B1",
   "category": "other",
   "tags": [
