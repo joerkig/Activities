@@ -2,7 +2,7 @@ const presence = new Presence({
   clientId: '1560173357952012288',
 })
 
-const LOGO = 'https://i.postimg.cc/3JGYtxg1/karaoketype.jpg'
+const LOGO = 'https://cdn.rcd.gg/PreMiD/websites/K/KaraokeType/assets/logo.jpg'
 const pageLoadedAt = Math.floor(Date.now() / 1000)
 
 /** Live snapshot of the 60s Speed Test (published by SpeedTest.snapshot() in index.html). */
