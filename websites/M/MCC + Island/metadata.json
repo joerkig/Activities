@@ -21,9 +21,9 @@
     "mccisland.wiki"
   ],
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*(mcchampionship[.]com|mccisland[.]net|mcc[.]live|mccisland[.]wiki)[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/duHdSPA.png",
-  "thumbnail": "https://i.imgur.com/qQzrXJD.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/thumbnail.png",
   "color": "#F0443E",
   "category": "games",
   "tags": [

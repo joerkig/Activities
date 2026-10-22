@@ -209,10 +209,10 @@ Glyphs converted to 512x512 PNG with transparent padding; font is not redistribu
 */
 // Heart and community artwork are the original MCC website images.
 export const AccountIcons = {
-  Conversations: 'https://i.imgur.com/78IKOZS.png',
-  Alerts: 'https://i.imgur.com/3jA3Fp2.png',
-  Account: 'https://i.imgur.com/bQRohKZ.png',
-  Bookmarks: 'https://i.imgur.com/51DyQFo.png',
-  Reactions: 'https://i.imgur.com/MrT4Kta.png',
-  Privacy: 'https://i.imgur.com/1wsEH1r.png',
+  Conversations: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/0.png',
+  Alerts: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/1.png',
+  Account: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/2.png',
+  Bookmarks: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/3.png',
+  Reactions: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/4.png',
+  Privacy: 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/5.png',
 }
