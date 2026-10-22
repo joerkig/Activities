@@ -13,9 +13,9 @@
   },
   "url": "anicat.cc",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])?anicat[.]cc[/]",
-  "version": "1.0.6",
-  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/logo.png",
-  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/logo.png",
+  "version": "1.0.7",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/thumbnail.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/AniCat/assets/thumbnail.png",
   "color": "#A570FF",
   "category": "anime",
   "tags": [
