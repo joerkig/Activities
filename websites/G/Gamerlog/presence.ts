@@ -5,7 +5,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.ibb.co/rYjNWTr/rsz-1gamerlog-logo-dcstibz3.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/G/Gamerlog/assets/logo.png',
 }
 
 const TRAILING_SLASH_REGEX = /\/+$/

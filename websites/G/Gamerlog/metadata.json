@@ -11,9 +11,9 @@
   },
   "url": "gamerlog.app",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*gamerlog[.]app[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/rYjNWTr/rsz-1gamerlog-logo-dcstibz3.png",
-  "thumbnail": "https://i.ibb.co/nsPN2vg7/Screenshot-2026-10-22-224255.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/G/Gamerlog/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/G/Gamerlog/assets/thumbnail.png",
   "color": "#0a0a0b",
   "category": "games",
   "tags": [
