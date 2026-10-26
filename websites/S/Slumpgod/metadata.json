@@ -11,10 +11,14 @@
   },
   "url": "slumpgod.org",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*slumpgod[.]org[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/lTYRclu.png",
-  "thumbnail": "https://i.imgur.com/XEZM7iF.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Slumpgod/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Slumpgod/assets/thumbnail.png",
   "color": "#8C1414",
   "category": "music",
-  "tags": ["music", "hip-hop", "rap"]
+  "tags": [
+    "music",
+    "hip-hop",
+    "rap"
+  ]
 }
