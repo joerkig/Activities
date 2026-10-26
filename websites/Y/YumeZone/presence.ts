@@ -7,7 +7,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://yumezone.live/brand/logo-512.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/Y/YumeZone/assets/logo.png',
 }
 
 async function getStrings() {
