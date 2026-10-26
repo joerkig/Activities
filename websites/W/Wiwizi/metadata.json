@@ -12,9 +12,9 @@
   },
   "url": "wiwizi.com",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*wiwizi[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/pJggfex.png",
-  "thumbnail": "https://i.imgur.com/7HOw5PW.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/W/Wiwizi/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/W/Wiwizi/assets/thumbnail.png",
   "color": "#E50914",
   "category": "videos",
   "tags": [
