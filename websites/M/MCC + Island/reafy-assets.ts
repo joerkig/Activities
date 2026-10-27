@@ -21,7 +21,7 @@ export const ReafyGames: Record<string, string> = {
 }
 
 // The fixed logo is a hosted 512px asset; selected-game icons keep their website URLs.
-export const ReafyLogo: string | Blob = 'https://i.imgur.com/Bpshofx.png'
+export const ReafyLogo: string | Blob = 'https://cdn.rcd.gg/PreMiD/websites/M/MCC%20%2B%20Island/assets/19.png'
 export const ReafyGameIcons: Record<string, string | Blob> = Object.fromEntries(
   Object.keys(ReafyGames).map(game => [game, `https://reafystats.com/game-icons/${game}.webp`]),
 )
