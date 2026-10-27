@@ -4,7 +4,7 @@ import { ActivityType, getTimestamps } from 'premid'
   'use strict'
 
   const presence = new Presence({ clientId: '503557087041683458' })
-  const LOGO = 'https://i.imgur.com/dyqDcS4.png'
+  const LOGO = 'https://cdn.rcd.gg/PreMiD/websites/Y/YoHo/assets/logo.png'
   const PLAYER_DATA_TTL = 35000
 
   interface PlayerState {
