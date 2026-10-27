@@ -12,9 +12,9 @@
   },
   "url": "aci.nous.es",
   "regExp": "^https?[:][/][/]aci[.]nous[.]es[/]",
-  "version": "1.0.0",
-  "logo": "https://raw.githubusercontent.com/antoniobuen0/aci-mapa-premid-assets/main/logo.png",
-  "thumbnail": "https://raw.githubusercontent.com/antoniobuen0/aci-mapa-premid-assets/main/thumbnail.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/ACI-MAPA/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/ACI-MAPA/assets/thumbnail.png",
   "color": "#a3d2ce",
   "category": "other",
   "tags": [
