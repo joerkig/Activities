@@ -4,11 +4,11 @@ const presence = new Presence({ clientId: '1557183181655121960' })
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://kurono.nl/brand/premid-logo.png',
-  Play = 'https://kurono.nl/brand/premid-play.png',
-  Pause = 'https://kurono.nl/brand/premid-pause.png',
-  Search = 'https://kurono.nl/brand/premid-search.png',
-  Read = 'https://kurono.nl/brand/premid-read.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/K/Kurono/assets/0.png',
+  Play = 'https://cdn.rcd.gg/PreMiD/websites/K/Kurono/assets/1.png',
+  Pause = 'https://cdn.rcd.gg/PreMiD/websites/K/Kurono/assets/2.png',
+  Search = 'https://cdn.rcd.gg/PreMiD/websites/K/Kurono/assets/3.png',
+  Read = 'https://cdn.rcd.gg/PreMiD/websites/K/Kurono/assets/4.png',
 }
 
 // Season names as shown in the site's season menu, cached per show.
